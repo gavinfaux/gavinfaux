@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gavinfaux
-- 👀 I’m interested in things
-- 🌱 I’m currently learning
 
 
 <!---
